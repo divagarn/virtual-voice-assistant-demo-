@@ -5,12 +5,19 @@ IMPORT THE BELOW NAMED FILES
 
 
 import speech_recognition
+
 import pyttsx3
+
 import datetime
+
 import wikipedia
+
 import webbrowser
+
 import os
+
 import time
+
 import subprocess
 
 
