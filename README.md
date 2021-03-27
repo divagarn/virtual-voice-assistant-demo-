@@ -22,3 +22,9 @@ import subprocess
 
 
 install the above file using pip command.
+
+
+And after finishing this you need to create an account in ** wolframalpha ** and go to your profile 
+copy your app id and paste in the code.
+
+
