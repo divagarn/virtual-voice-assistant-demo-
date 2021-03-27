@@ -109,14 +109,14 @@ if __name__=='__main__':
             speak('I can answer to computational and geographical questions  and what question do you want to ask now')
             question=takeCommand()
             app_id="Paste your unique ID here "
-            client = wolframalpha.Client('R2K75H-7ELALHR35X')
+            client = wolframalpha.Client('Paste your unique ID here')
             res = client.query(question)
             answer = next(res.results).text
             speak(answer)
             print(answer)
             
         elif 'who are you' in statement or 'what can you do' in statement:
-            speak('I am G-one version 1 point O your personal assistant. I am programmed to minor tasks like'
+            speak('I am MAV version 1 point O your personal assistant. I am programmed to minor tasks like'
                   'opening youtube,google chrome, gmail and stackoverflow ,predict time,take a photo,search wikipedia,predict weather' 
                   'In different cities, get top headline news from times of india and you can ask me computational or geographical questions too!')
 
