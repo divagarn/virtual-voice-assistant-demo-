@@ -25,6 +25,8 @@ install the above file using pip command.
 
 
 And after finishing this you need to create an account in ** wolframalpha ** and go to your profile 
-copy your app id and paste in the code.
+copy your app id and paste in the code.And the image shown below. 
 
+
+![mnl](https://user-images.githubusercontent.com/50747240/112711660-132ddc80-8ef0-11eb-8fe8-f54a21c014cb.png)
 
